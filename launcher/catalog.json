@@ -1,0 +1,86 @@
+{
+  "zapclean": {
+    "name": "ZapClean",
+    "emoji": "🧹",
+    "cat": "Tools",
+    "desc": "Limpia y optimiza Windows: temporales, cachés, papelera, DNS, sfc/DISM y análisis de carpetas."
+  },
+  "zapnet": {
+    "name": "ZapNet",
+    "emoji": "📶",
+    "cat": "Tools",
+    "desc": "Diagnóstico de red: IP pública, Wi-Fi, ping, traceroute, DNS, puertos y test de velocidad."
+  },
+  "zapfiles": {
+    "name": "ZapFiles",
+    "emoji": "🧬",
+    "cat": "Tools",
+    "desc": "Duplicados por hash, archivos más grandes, renombrado en lote y hashes MD5/SHA-256."
+  },
+  "zapsys": {
+    "name": "ZapSys",
+    "emoji": "💻",
+    "cat": "Tools",
+    "desc": "Resumen del equipo, informe completo, procesos en vivo y control del inicio de Windows."
+  },
+  "zappass": {
+    "name": "ZapPass",
+    "emoji": "🔐",
+    "cat": "Tools",
+    "desc": "Contraseñas y passphrases con medidor real de fuerza y comprobador de filtraciones."
+  },
+  "zapdev": {
+    "name": "ZapDev",
+    "emoji": "🛠",
+    "cat": "Tools",
+    "desc": "JSON, Base64, hashes, JWT, expresiones regulares y generadores para programar."
+  },
+  "zapshot": {
+    "name": "ZapShot",
+    "emoji": "📸",
+    "cat": "Tools",
+    "desc": "Capturas de pantalla con cuenta atrás, anotaciones y galería."
+  },
+  "zapmedia": {
+    "name": "ZapMedia",
+    "emoji": "🎬",
+    "cat": "Tools",
+    "desc": "Comprime vídeo, extrae audio, recorta y convierte imágenes en lote."
+  },
+  "zapclip": {
+    "name": "ZapClip",
+    "emoji": "📋",
+    "cat": "Tools",
+    "desc": "Historial del portapapeles con búsqueda, favoritos y transformaciones rápidas."
+  },
+  "zapcalc": {
+    "name": "ZapCalc",
+    "emoji": "🧮",
+    "cat": "Tools",
+    "desc": "Calculadora científica, unidades, monedas con tipos reales, IVA e intereses."
+  },
+  "zappdf": {
+    "name": "ZapPdf",
+    "emoji": "📄",
+    "cat": "Tools",
+    "desc": "Unir, dividir, girar, extraer texto e imágenes de PDF y poner marca de agua."
+  },
+  "zapoffice": {
+    "name": "ZapOffice",
+    "emoji": "📊",
+    "cat": "Tools",
+    "desc": "CSV ↔ Excel, ver CSV y comprimir, extraer o comprobar archivos ZIP."
+  },
+  "zaphub": {
+    "name": "ZapHub",
+    "emoji": "Z",
+    "cat": "Aplicaciones",
+    "desc": "Centro de control de Windows: biblioteca, apps instalables, monitor y vídeo de tutorial."
+  },
+  "zaplauncher": {
+    "name": "ZapLauncher",
+    "emoji": "ZL",
+    "cat": "Aplicaciones",
+    "desc": "Este launcher. Se puede reinstalar desde aquí."
+  }
+}
